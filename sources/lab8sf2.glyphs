@@ -1,7 +1,7 @@
 {
-.appVersion = "3241";
-date = "2023-06-12 08:53:57 +0000";
-familyName = lab8sf_2023;
+.appVersion = "3337";
+date = "2025-06-20 06:28:26 +0000";
+familyName = "LabScFi-Monospace";
 featurePrefixes = (
 {
 automatic = 1;
