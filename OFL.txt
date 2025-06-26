@@ -1,4 +1,4 @@
-Copyright 2023 The lab-8-sci-fi Monospace Authors (Carolina Giovagnoli)
+Copyright 2023 The Lab-8-ScFi Authors
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
